@@ -1,8 +1,8 @@
-# Application Name
+# Registrar
 
 ##### _{Brief description of application}, {Date of current version}_
 
-#### By **Molly Waggett**
+#### By **Molly Waggett and Kallen Millner**
 
 ## Description
 
@@ -42,7 +42,7 @@
 
 ### Legal
 
-Copyright (c) 2015 **Molly Waggett**
+Copyright (c) 2015 **Molly Waggett and Kallen Millner**
 
 This software is licensed under the MIT license.
 
